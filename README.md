@@ -23,6 +23,25 @@
         </p>
     </div>
   </div>
+
+  <div style="margin-bottom: 20px; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+        <p style="margin: 0; font-size: 1.1em;">
+            <strong>Associate Director, Training and Development</strong><br>
+            <em>Seres Therapeutics</em><br>
+            <span style="font-size: 0.95em; color: #555;">Dec 2021 - Jun 2023</span>
+        </p>
+    </div>
+    <ul style="margin-top: 10px; padding-left: 20px;">
+      <li>GxP training and compliance </li>
+      <li>Non-GxP training (Safety, EHS, Professional)</li>
+      <li>Learning and Development strategy</li>
+      <li>Learning Experience Designer</li>
+      <li>Onboarding program for new hires</li>
+      <li>Onboarding Managerial resources</li>
+      <li>Talent development</li>
+    </ul>
+  </div>
   
 </div>
 
